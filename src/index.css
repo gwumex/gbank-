@@ -8,8 +8,8 @@
   --black-gradient: linear-gradient(
     144.39deg,
     #ffffff -278.56%,
-    #6d6d6d -78.47%,
-    #11101d 91.61%
+    #dead8789 -78.47%,
+    #df8f557c 91.61%
   );
   --card-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
 }
@@ -21,12 +21,12 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #def9fa 0.89%,
-    #bef3f5 17.23%,
-    #9dedf0 42.04%,
-    #7de7eb 55.12%,
-    #5ce1e6 71.54%,
-    #33bbcf 100%
+    #f5f2f0 -43.27%,
+    #eeddd2 -21.24%,
+    #f5d0b7 12.19%,
+    #deac87 29.82%,
+    #df8e54 51.94%,
+    #df8f55 90.29%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -37,12 +37,13 @@
 .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
-    #def9fa -43.27%,
-    #bef3f5 -21.24%,
-    #9dedf0 12.19%,
-    #7de7eb 29.82%,
-    #5ce1e6 51.94%,
-    #33bbcf 90.29%
+    #f5f2f0 -43.27%,
+    #eeddd2 -21.24%,
+    #f5d0b7 12.19%,
+    #deac87 29.82%,
+    #df8e54 51.94%,
+    #df8f55 90.29%
+    
   );
 }
 
@@ -50,9 +51,12 @@
   background: linear-gradient(
     144.39deg,
     #ffffff -278.56%,
-    #6d6d6d -78.47%,
-    #11101d 91.61%
+    #deac87 -78.47%,
+    #df8f55 91.61%
   );
+}
+.main{
+  color: #140122fb;
 }
 
 .bg-black-gradient-2 {
@@ -130,7 +134,7 @@
 }
 
 .pink__gradient {
-  background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
+  background: linear-gradient(90deg, #f4c4f3 0%, #54a355 100%);
   filter: blur(900px);
 }
 
