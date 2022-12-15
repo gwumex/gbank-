@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import GetStarted from "./GetStarted";
 import Hero from "./Hero";
 import Stat from "./Stats";
+import Testimonial from "./Testimonial"
 
 
 export {
@@ -22,5 +23,6 @@ export {
     Footer,
     GetStarted,
     Hero,
+    Testimonial,
     Stat
 };

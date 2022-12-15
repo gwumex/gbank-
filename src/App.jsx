@@ -4,6 +4,7 @@ import {
   Navbar,
   Billing,
   Business,
+  Testimonial,
   Button,
   CardDetails,
   Clients,
@@ -34,6 +35,7 @@ const App = () => {
           <Business/>
           <Billing/>
           <CardDetails/>
+          <Testimonial/>
           <Clients/>
           <Footer/>
         </div>
