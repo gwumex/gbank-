@@ -8,6 +8,7 @@ import {
   Button,
   CardDetails,
   Clients,
+  CTA,
   FeedbackCard,
   Footer,
   GetStarted,
@@ -37,6 +38,7 @@ const App = () => {
           <CardDetails/>
           <Testimonial/>
           <Clients/>
+          <CTA/>
           <Footer/>
         </div>
       </div>
